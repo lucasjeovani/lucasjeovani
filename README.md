@@ -6,10 +6,12 @@ Here are some ideas to get you started:
 - 🌱 Estou em constante aprendizado.
 - 💕 Sou um apaixonado por tecnologia.
 
+Status
+------------------------------------------------------------------------------------------------------------------------------
 <div>
 <a href="https://github.com/lucasjeovani">
-<img height="180rem" width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasjeovani&theme=midnight-purple&show_icons=true"/>
-<img height="180rem" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjeovani&layout=compact&langs_count=16&theme=midnight-purple"/>
+<img height="180rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=lucasjeovani&theme=midnight-purple&show_icons=true"/>
+<img height="180rem" width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjeovani&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 Ferramentas
