@@ -10,7 +10,7 @@
 <div align="center">
 <a href="https://github.com/lucasjeovani">
 <img height="150em" width="500rem" src="https://github-readme-stats.vercel.app/api?username=lucasjeovani&theme=midnight-purple&show_icons=true"/>
-<img height="120em" width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjeovani&layout=compact&langs_count=16&theme=midnight-purple"/>
+<img height="150em" width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjeovani&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <h2 align="center">Ferramentas</h2>
